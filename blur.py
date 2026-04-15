@@ -1,3 +1,5 @@
+# Face detection using RetinaFace (serengil/retinaface)
+# Licensed under the MIT License: https://github.com/serengil/retinaface/blob/master/LICENSE
 import cv2
 from retinaface import RetinaFace
 from moviepy.editor import VideoFileClip
